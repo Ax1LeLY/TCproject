@@ -6,4 +6,4 @@ permalink: /guide/plcyrhfo2/
 ## Video source
 This is an introductory video for the IEEE database.
 
-@[artPlayer](../.vuepress/public/iel-en-s.mp4)
+@[artPlayer](/iel-en-s.mp4)
